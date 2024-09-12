@@ -1,0 +1,396 @@
+Consumer Demographics,Product Category,Foot Traffic,Promotion,Seasonal,Product Position,Sold Number of Products,Average Price,Average Competitor's Price,Revenue
+Families,Clothing,Medium,No,No,Aisle,5158,21,20,96496
+Seniors,Clothing,Low,No,No,Aisle,654,17,13,11118
+Young adults,Electronics,Medium,Yes,Yes,End-cap,5853,41,37,245166
+Families,Clothing,Low,Yes,Yes,Aisle,4557,42,39,191394
+College students,Clothing,Medium,No,Yes,End-cap,9032,28,26,276999
+Seniors,Clothing,Medium,No,No,End-cap,6623,28,27,169327
+College students,Clothing,High,Yes,Yes,Front of Store,4434,41,39,178418
+College students,Clothing,Low,No,No,Aisle,5212,24,21,131209
+Families,Electronics,High,Yes,Yes,Aisle,4168,18,16,70992
+Families,Electronics,High,No,Yes,Aisle,2072,42,38,88648
+College students,Food,High,Yes,Yes,Aisle,10657,28,26,329420
+College students,Food,Low,Yes,No,Aisle,7732,31,27,212935
+Families,Food,Medium,Yes,Yes,Front of Store,2195,14,12,27045
+Families,Food,Low,Yes,Yes,Aisle,5728,28,24,134392
+Young adults,Clothing,Medium,No,No,End-cap,4083,26,25,99504
+Young adults,Food,Medium,No,No,Aisle,2089,14,14,29246
+Young adults,Food,Medium,Yes,Yes,Front of Store,4977,26,23,129539
+College students,Clothing,High,No,Yes,Aisle,2321,19,14,44099
+Young adults,Electronics,Low,No,No,End-cap,8127,33,31,258008
+College students,Food,Medium,Yes,Yes,End-cap,6651,26,24,201533
+Families,Clothing,Low,No,Yes,Front of Store,7758,32,30,261805
+Young adults,Electronics,Medium,Yes,No,Aisle,3060,22,21,69090
+Seniors,Electronics,Low,No,No,End-cap,6392,27,24,186198
+Families,Food,Low,Yes,No,Front of Store,5322,34,31,158024
+Seniors,Clothing,High,Yes,No,Front of Store,3995,36,33,141021
+Young adults,Clothing,High,No,No,End-cap,1869,27,24,51849
+College students,Clothing,Low,Yes,Yes,Front of Store,4750,26,24,128700
+Families,Clothing,Low,No,No,Front of Store,8536,22,19,221793
+Young adults,Food,Medium,Yes,No,Front of Store,9229,29,27,310673
+College students,Electronics,Low,No,Yes,Front of Store,9290,33,30,294147
+Seniors,Electronics,Medium,Yes,No,End-cap,10780,40,37,421406
+Seniors,Electronics,High,Yes,No,End-cap,4639,28,26,127281
+College students,Clothing,High,Yes,No,Aisle,5902,10,8,61911
+College students,Electronics,Low,No,Yes,End-cap,1145,11,7,12595
+Seniors,Clothing,Low,No,No,End-cap,4696,19,18,70134
+Young adults,Electronics,Low,No,Yes,Aisle,6892,33,30,236481
+College students,Clothing,Medium,No,No,Aisle,8024,33,31,283150
+Families,Clothing,High,Yes,Yes,End-cap,10517,34,31,367584
+Families,Clothing,High,No,Yes,Front of Store,6615,38,35,251855
+Families,Food,Low,No,No,Aisle,3743,39,37,153042
+Families,Electronics,High,Yes,No,Aisle,8668,21,18,180446
+College students,Clothing,Low,No,No,End-cap,9001,36,32,331237
+Families,Electronics,Low,No,No,Aisle,665,43,38,28595
+Seniors,Food,Low,No,No,Front of Store,5743,35,32,210012
+Families,Clothing,Medium,Yes,No,End-cap,3376,42,38,151555
+Seniors,Food,Medium,Yes,No,Front of Store,4243,27,26,110678
+Young adults,Electronics,High,No,No,Front of Store,2131,38,37,77323
+Young adults,Clothing,Low,No,Yes,Front of Store,5981,31,29,181950
+Young adults,Food,High,No,Yes,Front of Store,3818,25,22,71146
+Young adults,Food,Low,No,Yes,End-cap,1717,39,35,66963
+Families,Electronics,Low,Yes,Yes,Front of Store,7571,42,41,317135
+Families,Food,High,Yes,No,Aisle,9383,26,25,259503
+College students,Electronics,Medium,No,Yes,End-cap,5545,28,26,161788
+Young adults,Electronics,High,Yes,Yes,End-cap,3372,30,28,113497
+Seniors,Clothing,High,No,Yes,Front of Store,5206,41,38,220642
+Seniors,Food,Medium,Yes,Yes,End-cap,7387,37,33,288935
+Young adults,Clothing,Medium,No,No,Front of Store,1633,12,7,19596
+College students,Electronics,High,Yes,Yes,Aisle,6047,32,29,186924
+Seniors,Electronics,High,Yes,Yes,Aisle,3454,37,35,127129
+Families,Electronics,Low,Yes,No,End-cap,1635,30,30,49327
+Young adults,Clothing,High,No,Yes,Aisle,2468,28,25,70896
+Seniors,Clothing,High,No,No,Aisle,7817,32,29,222796
+Seniors,Food,High,Yes,Yes,End-cap,3653,38,34,146159
+Seniors,Electronics,Medium,No,No,Aisle,9532,18,16,166847
+Families,Electronics,Low,No,No,Front of Store,5630,16,14,93969
+Seniors,Food,Low,No,Yes,Aisle,9688,17,14,131631
+Families,Clothing,High,No,No,End-cap,3907,19,18,53520
+College students,Electronics,Medium,Yes,No,End-cap,6254,41,40,256472
+Seniors,Food,High,Yes,No,Aisle,7170,31,29,226230
+Seniors,Food,Low,Yes,No,Front of Store,3231,22,20,57234
+Families,Clothing,Medium,No,No,Front of Store,3779,18,14,65337
+College students,Clothing,High,Yes,Yes,End-cap,6434,21,18,127126
+College students,Clothing,Low,No,Yes,Front of Store,7482,21,19,173001
+College students,Clothing,High,Yes,No,End-cap,4800,40,38,193320
+Young adults,Clothing,High,Yes,Yes,Aisle,2453,29,26,70687
+Seniors,Food,Medium,Yes,Yes,Front of Store,9808,22,18,244877
+Young adults,Electronics,Low,Yes,No,Front of Store,5450,18,16,96196
+Families,Food,High,Yes,Yes,Aisle,2344,46,44,109557
+Seniors,Food,High,No,Yes,Aisle,2849,44,42,125356
+Families,Electronics,Low,Yes,No,Aisle,7139,22,18,162451
+Seniors,Electronics,Low,No,Yes,Aisle,6485,32,30,211204
+Seniors,Electronics,Low,No,No,Aisle,10468,26,23,268267
+College students,Clothing,High,No,No,End-cap,4126,38,35,146258
+College students,Food,Medium,No,No,Aisle,3344,16,14,52007
+Families,Electronics,High,No,Yes,Front of Store,647,47,46,30409
+Families,Electronics,High,Yes,Yes,End-cap,1909,32,30,63730
+College students,Food,Low,No,No,Front of Store,5044,33,30,176812
+Seniors,Food,High,Yes,Yes,Front of Store,9010,30,28,275334
+Seniors,Food,High,No,No,End-cap,6842,27,25,183540
+Families,Clothing,Low,No,Yes,Aisle,8538,34,32,293218
+Families,Electronics,Medium,No,Yes,Aisle,2839,38,37,107882
+Families,Clothing,Low,Yes,Yes,Front of Store,6275,38,36,262194
+Young adults,Electronics,Low,Yes,Yes,Front of Store,9594,28,25,299795
+Young adults,Electronics,Low,Yes,No,End-cap,2223,24,20,46724
+College students,Electronics,Medium,Yes,Yes,Front of Store,5178,29,26,159212
+Families,Clothing,Low,Yes,No,Front of Store,3090,32,30,103825
+Families,Electronics,Medium,Yes,No,Front of Store,3723,14,10,43433
+Seniors,Food,Medium,No,No,Front of Store,4995,15,14,68775
+Seniors,Food,Low,Yes,No,Aisle,1796,23,21,41308
+Seniors,Electronics,High,No,No,Aisle,9109,26,23,256054
+Families,Food,Medium,Yes,No,End-cap,5931,30,28,173890
+College students,Electronics,Low,No,Yes,Aisle,2032,23,22,46736
+Seniors,Clothing,Low,No,Yes,Aisle,6924,16,13,100303
+Young adults,Clothing,Medium,Yes,Yes,End-cap,7527,33,32,252619
+Seniors,Food,Medium,No,Yes,Aisle,6599,20,17,114187
+Families,Clothing,High,No,Yes,End-cap,5768,18,15,106197
+Young adults,Clothing,High,Yes,Yes,End-cap,2404,40,37,96160
+Families,Electronics,High,No,No,Front of Store,11827,26,22,290419
+Families,Electronics,Medium,No,Yes,End-cap,5927,24,22,130951
+Young adults,Clothing,Medium,No,Yes,End-cap,3926,26,24,111049
+Seniors,Clothing,Medium,No,Yes,End-cap,3847,30,30,95045
+College students,Electronics,Low,Yes,Yes,Front of Store,3978,40,36,159120
+Young adults,Food,Medium,No,Yes,Front of Store,3308,20,18,71531
+Families,Electronics,Low,Yes,No,Front of Store,743,33,31,24519
+Young adults,Electronics,Low,No,No,Front of Store,4424,22,19,107948
+Seniors,Clothing,Low,Yes,Yes,Aisle,7035,28,26,173657
+Young adults,Clothing,Low,No,No,End-cap,7547,41,38,314543
+Seniors,Electronics,High,No,No,End-cap,5224,11,8,58952
+College students,Electronics,High,Yes,No,End-cap,1296,18,17,23328
+Seniors,Clothing,High,No,Yes,End-cap,1678,9,6,15102
+Seniors,Electronics,Medium,No,No,End-cap,5998,14,11,78447
+Young adults,Clothing,Low,No,No,Aisle,12070,25,23,306609
+Families,Food,Low,Yes,No,Aisle,7501,37,33,297760
+College students,Food,Medium,Yes,No,Aisle,4423,26,23,120706
+Families,Food,High,Yes,No,Front of Store,6006,30,26,185889
+Young adults,Clothing,Medium,No,No,Aisle,5618,9,6,57274
+Young adults,Clothing,High,Yes,No,End-cap,3747,40,38,158785
+College students,Electronics,Low,Yes,No,Front of Store,8016,36,33,308843
+Families,Food,Medium,Yes,Yes,End-cap,11838,33,32,407136
+Families,Food,Medium,No,No,Front of Store,8529,34,32,295364
+College students,Clothing,Medium,No,No,Front of Store,2193,18,16,39474
+College students,Electronics,High,Yes,Yes,Front of Store,7787,24,22,180248
+Families,Electronics,Low,No,No,End-cap,4154,27,24,138738
+College students,Electronics,Low,Yes,No,Aisle,7874,31,28,218235
+Families,Food,Medium,Yes,No,Aisle,2448,19,17,43712
+Seniors,Food,Medium,Yes,Yes,Aisle,13863,34,31,464601
+Seniors,Electronics,Low,No,Yes,Front of Store,542,36,31,19512
+Young adults,Food,Low,Yes,Yes,End-cap,8854,22,20,192538
+College students,Clothing,Low,Yes,No,End-cap,6742,24,20,149524
+Families,Electronics,Low,Yes,Yes,Aisle,2877,19,17,54663
+Families,Food,High,No,Yes,Aisle,1660,25,23,31468
+Young adults,Clothing,Medium,No,Yes,Aisle,3525,32,30,109857
+Families,Electronics,Medium,No,No,Aisle,4452,18,14,65660
+Young adults,Clothing,High,No,Yes,End-cap,4274,32,28,120418
+Young adults,Electronics,High,Yes,No,Front of Store,8596,23,22,190087
+Seniors,Clothing,High,No,Yes,Aisle,4419,40,39,184090
+Young adults,Clothing,Medium,Yes,No,Front of Store,2494,49,45,122206
+Seniors,Clothing,High,No,No,Front of Store,5864,22,20,135417
+Young adults,Electronics,Medium,No,Yes,End-cap,7115,19,16,102694
+Families,Electronics,High,No,No,End-cap,2766,31,29,79415
+Families,Electronics,Low,Yes,Yes,End-cap,8365,29,27,229690
+Young adults,Food,Low,No,No,End-cap,867,31,27,26877
+Young adults,Food,Low,Yes,Yes,Front of Store,3913,44,42,177471
+Seniors,Electronics,High,Yes,Yes,End-cap,2606,43,39,112058
+College students,Clothing,Medium,No,Yes,Aisle,4894,28,26,148272
+Seniors,Clothing,Medium,Yes,Yes,Front of Store,5576,32,29,181370
+College students,Food,Medium,No,Yes,End-cap,7176,33,30,216583
+College students,Food,High,No,No,Front of Store,2179,36,34,78444
+College students,Electronics,High,No,Yes,End-cap,7933,15,13,112326
+College students,Electronics,Low,No,No,Aisle,1904,30,27,56231
+Seniors,Clothing,Medium,Yes,Yes,Aisle,6603,22,20,146396
+Young adults,Clothing,Low,No,No,Front of Store,4758,22,18,109082
+College students,Clothing,Medium,No,No,End-cap,6270,17,16,106319
+Families,Food,High,No,No,End-cap,7999,28,26,243630
+Seniors,Food,Low,No,Yes,End-cap,1752,30,29,51873
+Seniors,Food,High,No,No,Aisle,2914,40,37,116560
+Young adults,Clothing,Low,No,Yes,End-cap,7266,24,22,173183
+Seniors,Electronics,Low,Yes,Yes,End-cap,2704,30,26,88714
+Families,Electronics,High,No,Yes,End-cap,7624,27,24,221777
+College students,Food,High,No,Yes,Front of Store,4753,28,24,140755
+College students,Food,Medium,No,Yes,Aisle,7220,20,19,143487
+College students,Food,Low,Yes,No,End-cap,5013,22,20,144788
+College students,Electronics,Medium,No,Yes,Front of Store,8580,34,31,324178
+Young adults,Food,High,Yes,No,Aisle,2491,34,32,91179
+Families,Electronics,Medium,Yes,Yes,Aisle,5579,30,28,120117
+Young adults,Electronics,Medium,No,Yes,Aisle,5851,16,15,110965
+Seniors,Food,High,Yes,Yes,Aisle,4903,17,13,92939
+College students,Electronics,High,No,No,End-cap,5207,17,14,104888
+Young adults,Electronics,High,No,Yes,End-cap,5173,48,45,246154
+College students,Food,High,No,Yes,Aisle,5845,22,19,96982
+Seniors,Electronics,High,No,Yes,End-cap,1684,34,30,56592
+Families,Clothing,High,Yes,No,Aisle,3115,21,20,70085
+Young adults,Electronics,Medium,No,No,Front of Store,2592,11,9,31582
+Young adults,Electronics,High,Yes,No,Aisle,4850,33,31,148073
+Families,Clothing,High,No,Yes,Aisle,6157,35,32,215578
+College students,Clothing,Medium,Yes,No,Front of Store,3526,28,26,88460
+Young adults,Electronics,Low,Yes,Yes,End-cap,3429,42,40,136023
+College students,Electronics,Medium,Yes,Yes,End-cap,2622,33,30,86526
+Young adults,Food,High,Yes,Yes,Aisle,6627,18,16,118281
+Young adults,Electronics,Medium,Yes,No,Front of Store,3085,6,4,18467
+Families,Clothing,Low,Yes,No,Aisle,2222,13,13,28886
+Families,Clothing,Medium,No,Yes,End-cap,2823,14,12,31677
+College students,Food,Medium,No,No,Front of Store,5656,35,32,211431
+Young adults,Electronics,Low,Yes,No,Aisle,5345,32,28,172815
+Young adults,Food,Medium,No,Yes,Aisle,2651,41,41,108691
+College students,Electronics,Low,No,No,End-cap,8512,29,27,238701
+Families,Food,High,No,Yes,Front of Store,7122,37,34,266062
+Families,Clothing,High,Yes,No,Front of Store,2649,39,36,107118
+Families,Clothing,High,No,No,Aisle,7915,30,28,218444
+Families,Clothing,Medium,No,Yes,Front of Store,1688,17,17,28696
+Families,Electronics,High,No,No,Aisle,4655,34,32,198010
+Young adults,Food,Medium,No,Yes,End-cap,7811,26,24,205953
+Young adults,Food,Medium,No,No,Front of Store,2907,17,15,53829
+Seniors,Electronics,High,Yes,No,Aisle,8763,24,21,212561
+Families,Electronics,Medium,Yes,Yes,Front of Store,3917,16,14,60476
+College students,Electronics,Medium,Yes,No,Aisle,7541,29,28,217009
+Seniors,Electronics,Low,No,No,Front of Store,5369,42,38,222553
+Families,Food,Low,No,Yes,Front of Store,6360,18,16,124951
+Young adults,Food,High,No,Yes,End-cap,7189,21,19,131360
+College students,Food,Low,No,Yes,End-cap,8231,34,32,280560
+Seniors,Electronics,Medium,Yes,Yes,Front of Store,1971,10,6,19710
+Young adults,Food,Low,Yes,No,End-cap,5854,32,29,170670
+Families,Clothing,Medium,Yes,Yes,End-cap,9935,16,14,147875
+Seniors,Food,Low,No,Yes,Front of Store,7869,28,25,222252
+Families,Electronics,High,Yes,Yes,Front of Store,1299,15,10,19485
+Families,Food,Medium,No,Yes,Aisle,6087,34,32,217598
+Seniors,Food,Medium,Yes,No,End-cap,3950,22,21,83336
+Families,Clothing,High,Yes,No,End-cap,6962,29,26,204143
+Seniors,Food,Medium,No,No,End-cap,5382,26,23,164831
+College students,Food,Medium,No,No,End-cap,2962,30,25,88860
+Young adults,Electronics,Medium,Yes,Yes,Front of Store,3374,26,22,85572
+Young adults,Food,High,No,No,End-cap,3987,35,34,138527
+Young adults,Electronics,Medium,No,No,End-cap,8018,39,37,320143
+Young adults,Electronics,Medium,Yes,Yes,Aisle,4602,17,16,71134
+College students,Clothing,High,No,Yes,Front of Store,2734,17,13,46478
+Young adults,Food,High,Yes,Yes,Front of Store,6731,37,34,246508
+College students,Food,Low,No,Yes,Front of Store,5931,22,18,160017
+Seniors,Clothing,Medium,Yes,Yes,End-cap,2054,20,15,41080
+Families,Food,Medium,Yes,No,Front of Store,4640,18,17,92751
+Seniors,Electronics,Low,Yes,Yes,Front of Store,1855,36,33,59165
+Seniors,Clothing,Low,No,Yes,End-cap,5706,38,36,213779
+Seniors,Food,Low,No,No,Aisle,2656,24,19,63744
+Families,Food,Medium,No,No,End-cap,2294,23,21,36526
+Seniors,Clothing,High,Yes,No,Aisle,4980,21,19,114880
+Families,Clothing,Medium,No,No,End-cap,3104,30,28,98788
+Seniors,Clothing,Low,No,Yes,Front of Store,1797,24,21,43128
+Families,Electronics,Low,No,Yes,Front of Store,2868,36,34,107295
+Young adults,Food,Medium,Yes,Yes,Aisle,4965,42,39,218094
+Seniors,Clothing,High,Yes,No,End-cap,6284,25,24,176004
+Young adults,Food,High,No,No,Front of Store,5658,22,19,151337
+Seniors,Food,High,No,Yes,Front of Store,4453,29,27,126477
+Young adults,Clothing,Low,Yes,Yes,End-cap,4780,32,32,152124
+Young adults,Food,Low,No,No,Aisle,7221,34,32,239815
+College students,Electronics,High,Yes,No,Aisle,542,25,23,13550
+Seniors,Electronics,High,Yes,No,Front of Store,1601,34,30,51305
+Seniors,Electronics,Low,Yes,No,End-cap,8099,36,33,291430
+Families,Electronics,High,Yes,No,End-cap,1506,32,28,48192
+Seniors,Clothing,Medium,No,No,Front of Store,5308,34,31,175656
+Young adults,Food,Medium,Yes,No,End-cap,1705,32,28,54560
+Seniors,Clothing,High,Yes,Yes,End-cap,2061,18,14,35871
+Seniors,Electronics,High,No,Yes,Aisle,8111,21,19,167619
+Seniors,Clothing,Medium,No,Yes,Aisle,1604,32,31,51328
+College students,Food,Low,Yes,Yes,End-cap,3711,40,36,152985
+College students,Clothing,Low,No,Yes,Aisle,4437,16,12,66821
+College students,Clothing,High,Yes,No,Front of Store,4480,24,21,115543
+Seniors,Electronics,Low,Yes,No,Aisle,1746,24,22,51636
+Young adults,Electronics,High,No,Yes,Aisle,1680,13,9,21840
+Families,Clothing,Medium,Yes,Yes,Aisle,8436,31,29,268353
+Young adults,Clothing,Low,Yes,No,Aisle,5694,24,20,130239
+Young adults,Electronics,High,Yes,No,End-cap,2339,28,26,80415
+College students,Food,High,No,No,End-cap,2324,33,30,67236
+Seniors,Electronics,Low,No,Yes,End-cap,7701,30,28,236807
+Families,Electronics,Medium,No,Yes,Front of Store,960,5,1,4800
+Young adults,Clothing,High,Yes,No,Aisle,6319,33,28,252198
+College students,Clothing,High,No,Yes,End-cap,1697,42,41,71274
+Families,Clothing,High,No,No,Front of Store,3262,32,30,111212
+College students,Electronics,High,Yes,No,Front of Store,5465,21,17,111325
+Seniors,Food,Low,No,No,End-cap,5887,33,30,204472
+Seniors,Electronics,Low,Yes,No,Front of Store,2971,27,22,80217
+Seniors,Clothing,Low,Yes,No,Aisle,2971,22,20,65362
+College students,Food,High,Yes,No,Front of Store,2188,30,26,65640
+Families,Clothing,High,Yes,Yes,Aisle,1557,11,8,17127
+College students,Electronics,Medium,Yes,Yes,Aisle,2461,49,47,120589
+College students,Clothing,Medium,No,Yes,Front of Store,14508,27,25,375973
+College students,Clothing,Low,Yes,No,Front of Store,3395,30,27,92959
+Seniors,Electronics,Low,Yes,Yes,Aisle,1410,21,19,29610
+College students,Clothing,Medium,Yes,No,Aisle,4653,27,24,121189
+College students,Food,Medium,Yes,Yes,Front of Store,3842,26,24,105423
+College students,Clothing,Low,No,No,Front of Store,8727,21,20,173952
+Families,Electronics,Medium,Yes,No,Aisle,4376,48,46,209814
+Seniors,Electronics,Medium,Yes,No,Aisle,905,13,12,11765
+College students,Electronics,High,No,No,Front of Store,1050,10,7,10500
+Seniors,Electronics,Medium,Yes,Yes,End-cap,5084,28,25,133756
+College students,Clothing,Low,No,Yes,End-cap,7598,22,20,203061
+Seniors,Food,Medium,No,No,Aisle,2007,27,24,43255
+Seniors,Food,High,No,Yes,End-cap,5325,28,24,126247
+Young adults,Electronics,Medium,No,Yes,Front of Store,2651,7,6,18557
+Young adults,Clothing,High,No,No,Front of Store,5963,30,29,191039
+Seniors,Electronics,Medium,Yes,No,Front of Store,4570,29,27,123155
+Young adults,Clothing,Low,Yes,Yes,Aisle,3728,16,14,37608
+Families,Food,High,No,No,Front of Store,4397,25,22,84826
+College students,Electronics,Low,No,No,Front of Store,1495,35,31,52325
+Families,Clothing,Low,No,Yes,End-cap,7352,22,20,161018
+Young adults,Food,Medium,Yes,No,Aisle,4897,16,15,101955
+College students,Food,Medium,Yes,Yes,Aisle,3348,34,32,110868
+Young adults,Electronics,High,No,No,End-cap,5185,24,22,118478
+Seniors,Clothing,High,Yes,Yes,Aisle,2874,30,29,72892
+Young adults,Clothing,Medium,Yes,No,End-cap,4211,42,41,176862
+Young adults,Electronics,High,No,Yes,Front of Store,4301,8,8,40651
+Seniors,Clothing,High,No,No,End-cap,3297,21,18,102144
+Young adults,Clothing,Low,Yes,No,Front of Store,2421,34,32,63449
+Seniors,Electronics,Medium,No,Yes,Front of Store,2204,29,28,63916
+Families,Clothing,Low,No,No,Aisle,1981,39,39,77259
+College students,Clothing,High,No,No,Front of Store,5875,29,29,171505
+College students,Clothing,High,No,No,Aisle,4459,16,16,71344
+Seniors,Electronics,High,No,Yes,Front of Store,4370,21,18,90132
+Young adults,Clothing,High,Yes,Yes,Front of Store,3701,28,26,106821
+College students,Food,High,Yes,No,Aisle,6109,22,20,153069
+College students,Electronics,Low,Yes,No,End-cap,1376,13,11,17888
+Seniors,Electronics,Medium,No,Yes,Aisle,7163,24,22,167784
+Families,Clothing,Medium,Yes,No,Aisle,1592,49,49,78008
+Seniors,Food,Low,Yes,No,End-cap,2025,40,38,81000
+Families,Food,High,No,Yes,End-cap,1964,36,34,70704
+Seniors,Clothing,Low,Yes,Yes,Front of Store,1272,35,31,44520
+Seniors,Clothing,Medium,Yes,No,Front of Store,1085,14,13,15190
+Seniors,Clothing,High,Yes,Yes,Front of Store,4098,20,16,82030
+College students,Food,High,No,Yes,End-cap,2717,16,14,42112
+Seniors,Food,Medium,No,Yes,End-cap,2896,38,35,110048
+Families,Clothing,Medium,Yes,No,Front of Store,3899,29,26,108483
+Seniors,Electronics,High,No,No,Front of Store,5079,27,25,131739
+Seniors,Clothing,Medium,Yes,No,End-cap,588,24,19,14112
+College students,Electronics,High,Yes,Yes,End-cap,7325,32,32,235683
+Families,Electronics,Low,No,Yes,Aisle,4967,35,33,193908
+College students,Clothing,Low,Yes,No,Aisle,5528,29,24,198212
+Families,Food,Medium,No,Yes,End-cap,4561,24,22,106484
+College students,Food,Low,No,No,Aisle,1462,30,28,45180
+Young adults,Clothing,High,No,Yes,Front of Store,7307,22,19,164095
+College students,Food,High,Yes,Yes,Front of Store,4084,22,20,80055
+Families,Food,Medium,No,No,Aisle,2494,44,43,109736
+College students,Electronics,High,No,Yes,Aisle,1031,13,11,13403
+Young adults,Clothing,Medium,Yes,No,Aisle,4378,35,32,163372
+Young adults,Electronics,High,No,No,Aisle,10926,28,27,310601
+Young adults,Clothing,Low,Yes,Yes,Front of Store,5729,24,21,127406
+Families,Electronics,Medium,No,No,Front of Store,1531,14,10,21434
+Seniors,Clothing,Low,Yes,Yes,End-cap,2468,16,12,43618
+Seniors,Clothing,Medium,No,No,Aisle,2463,43,39,105909
+College students,Electronics,Medium,No,No,End-cap,1352,9,6,12168
+Seniors,Food,High,No,No,Front of Store,4635,21,19,98408
+Seniors,Clothing,Low,Yes,No,End-cap,946,35,33,33110
+Families,Food,Low,No,No,End-cap,3116,12,8,41076
+Families,Food,Low,No,No,Front of Store,3469,30,26,124585
+College students,Food,Low,No,Yes,Aisle,2754,26,22,77460
+Young adults,Food,High,No,No,Aisle,2075,11,10,22825
+Families,Clothing,Low,Yes,No,End-cap,4626,16,14,69036
+College students,Electronics,Medium,No,Yes,Aisle,3119,34,33,114151
+College students,Food,Medium,Yes,No,End-cap,2687,45,41,120915
+Young adults,Electronics,High,Yes,Yes,Front of Store,2732,46,46,125672
+Families,Clothing,Low,Yes,Yes,End-cap,3162,27,24,66888
+College students,Electronics,Medium,No,No,Aisle,763,36,33,27468
+Young adults,Electronics,High,Yes,Yes,Aisle,3822,24,22,79742
+Young adults,Clothing,Medium,No,Yes,Front of Store,5345,22,19,106069
+College students,Food,High,Yes,Yes,End-cap,4331,39,36,168131
+Families,Food,High,Yes,No,End-cap,1178,28,26,32984
+College students,Clothing,Medium,Yes,Yes,End-cap,2452,26,21,64921
+Families,Food,Low,Yes,No,End-cap,2189,13,8,28457
+Seniors,Food,Medium,No,Yes,Front of Store,1474,9,5,13266
+College students,Food,Medium,Yes,No,Front of Store,1001,48,47,48048
+Families,Electronics,High,Yes,No,Front of Store,2405,9,6,21367
+Young adults,Food,Low,No,Yes,Front of Store,1667,8,4,13336
+Families,Electronics,Medium,Yes,No,End-cap,3678,24,21,55090
+Young adults,Electronics,Medium,Yes,No,End-cap,5770,6,4,31734
+Families,Clothing,High,Yes,Yes,Front of Store,3423,28,26,72630
+College students,Food,Low,Yes,Yes,Front of Store,3886,17,14,57878
+Young adults,Food,Low,Yes,No,Front of Store,1792,21,18,37632
+Families,Food,High,Yes,Yes,End-cap,809,49,48,39641
+Young adults,Food,Medium,No,No,End-cap,1029,7,3,7203
+Seniors,Food,Medium,Yes,No,Aisle,992,24,22,23808
+Young adults,Food,High,Yes,Yes,End-cap,4455,36,35,164340
+Families,Food,Medium,No,Yes,Front of Store,1140,32,31,36480
+Families,Food,Low,No,Yes,End-cap,779,20,19,15580
+Seniors,Food,High,Yes,No,Front of Store,2315,8,4,18520
+Young adults,Clothing,Low,No,Yes,Aisle,1089,31,26,33759
+College students,Food,Low,No,No,End-cap,1999,30,30,59970
+Young adults,Food,High,No,Yes,Aisle,2085,49,46,102165
+College students,Clothing,Low,Yes,Yes,End-cap,3600,25,22,101150
+Young adults,Electronics,Medium,No,No,Aisle,2749,32,29,87968
+Families,Food,Low,No,Yes,Aisle,2727,23,18,42603
+Young adults,Clothing,Medium,Yes,Yes,Aisle,1725,26,25,44850
+College students,Clothing,Low,Yes,Yes,Aisle,2064,28,27,57792
+Young adults,Clothing,Medium,Yes,Yes,Front of Store,2680,31,30,83080
+Young adults,Food,Low,No,No,Front of Store,507,16,15,8112
+Families,Food,Medium,Yes,Yes,Aisle,1701,48,43,81648
+Families,Electronics,Low,No,Yes,End-cap,1015,22,20,22330
+Families,Electronics,Medium,Yes,Yes,End-cap,1063,43,39,45709
+Young adults,Clothing,High,Yes,No,Front of Store,1270,6,3,7620
+Families,Clothing,Medium,No,Yes,Aisle,5834,25,22,147272
+Families,Food,High,No,No,Aisle,834,39,38,32526
+College students,Clothing,Medium,Yes,Yes,Front of Store,1581,29,26,45849
+Seniors,Clothing,Medium,Yes,No,Aisle,1408,22,19,30976
+Young adults,Food,High,Yes,No,Front of Store,1768,37,36,65416
+Seniors,Electronics,Medium,Yes,Yes,Aisle,2987,27,25,80649
+Young adults,Food,Low,No,Yes,Aisle,1745,46,44,80270
+College students,Electronics,Low,Yes,Yes,Aisle,2690,28,24,75320
+College students,Clothing,High,Yes,Yes,Aisle,1897,33,32,62601
+College students,Food,Medium,No,Yes,Front of Store,565,47,46,26555
