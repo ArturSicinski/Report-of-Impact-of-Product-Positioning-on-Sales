@@ -1,0 +1,13 @@
+select sales.`Consumer Demographics`,
+            sales.`Product Category`,
+                sales.`Foot Traffic`,
+                  sales.Promotion,
+                      sales.Seasonal,
+                        sales.`Product Position`,
+                           round(sum(sales.`Sales Volume`),0) as `Sold Number of Products`,
+                              round(avg(sales.Price),0) as `Average Price`,
+                                  round(avg(sales.`Competitor's Price`),0) as `Average Competitor's Price`,
+                                       round(sum(sales.`Sales Volume`*sales.Price),0) as Revenue
+from sales
+
+group by 1,2,3,4,5,6;
